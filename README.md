@@ -1,6 +1,6 @@
 # 📄 Aplicación Lista de Tareas
 
-Una aplicación moderna y responsiva para la gestión de tareas, construida con **Next.js**, **React** y **TypeScript**. Cuenta con una interfaz limpia, soporte para tema claro/oscuro y almacenamiento persistente.
+Una aplicación moderna y responsiva para la gestión de tareas, construida con **React**, **Next.js**, **TailwindCss** y **TypeScript**. Cuenta con una interfaz limpia, soporte para tema claro/oscuro y almacenamiento persistente.
 
 ## ✨ Características
 
